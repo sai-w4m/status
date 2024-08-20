@@ -1,6 +1,6 @@
 {
-  "type": "custom",
-  "message": "We’ll be down for scheduled maintenance on August 15th, 05:00-06:00 PST.",
+  "type": "maintenance",
+  "message": "We’ll be down for scheduled maintenance on August 16th, 05:00-06:00 PST.",
   "link": {
     "text": "Learn more",
     "url": "https://status.epicspro.com"
