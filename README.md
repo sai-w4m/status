@@ -12,6 +12,7 @@ The `announcement.json` file contains the data for announcements displayed on th
 
 ```json
 {
+  "active": false,
   "type": "maintenance",
   "message": "Test New Message, 05:00-06:00 PST.",
   "link": {
@@ -21,6 +22,7 @@ The `announcement.json` file contains the data for announcements displayed on th
 }
 ```
 
+- **`active`**: Enable or disable announcement message.
 - **`type`**: Specifies the type of announcement. Possible values are:
   - `"update"`: Indicates a general update or new feature release.
   - `"maintenance"`: Indicates scheduled maintenance or downtime.
